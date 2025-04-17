@@ -1,7 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Sydney Ecommerce Theme`,
-    siteUrl: `https://jamm.matter.design`,
+    title: "NutJee",
+    description: "Premium Dry Fruits | Minibar Items | Corporate Gifting",
+    author: "@nutjee",
+    siteUrl: "https://www.nutjee.in",
   },
-  plugins: [],
+  // ... plugins remain unchanged
 };
